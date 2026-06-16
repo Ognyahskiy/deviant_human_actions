@@ -1,0 +1,17 @@
+# Core
+torch>=2.0.0
+torchvision
+
+# OpenMMLab stack (mmaction2 itself is installed separately, see README)
+mmengine>=0.7.0
+mmcv>=2.0.0
+
+# Detection & tracking
+ultralytics>=8.3.0
+
+# Clustering
+scikit-learn>=1.3.0
+
+# Video / numerics
+opencv-python>=4.8.0
+numpy>=1.24.0
